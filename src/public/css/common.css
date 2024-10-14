@@ -1,0 +1,29 @@
+body {
+    background-color: #eee;
+}
+
+.header {
+    background: #000;
+    height: 80px;
+    align-content: center;
+}
+
+.header-utilities {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    color: #3366FF;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.header-link {
+    text-decoration: none;
+    color: #fff;
+}
